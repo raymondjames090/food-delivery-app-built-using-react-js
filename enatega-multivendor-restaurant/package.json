@@ -63,7 +63,7 @@
     "moment": "^2.29.1",
     "patch-package": "^8.0.0",
     "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react-dom": "19.1.1",
     "react-i18next": "^15.4.0",
     "react-native": "0.77.1",
     "react-native-countdown-component": "^2.7.1",
