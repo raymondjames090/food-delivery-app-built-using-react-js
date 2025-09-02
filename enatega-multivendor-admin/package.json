@@ -85,6 +85,6 @@
     "lint-staged": "^10.2.7",
     "prettier": "3.5.0",
     "prettier-config-standard": "^1.0.1",
-    "typescript": "5.8.2"
+    "typescript": "5.9.2"
   }
 }
