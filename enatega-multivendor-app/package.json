@@ -80,7 +80,7 @@
     "moment": "^2.29.1",
     "patch-package": "^8.0.0",
     "react": "18.2.0",
-    "react-i18next": "^15.0.2",
+    "react-i18next": "^15.7.3",
     "react-native": "0.78.0",
 
     "react-native-button": "^3.0.1",
