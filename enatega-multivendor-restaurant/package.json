@@ -37,7 +37,7 @@
     "@expo/config-plugins": "~9.0.16",
     "@react-native-async-storage/async-storage": "1.23.1",
     "@react-native-community/masked-view": "0.1.11",
-    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/bottom-tabs": "^7.15.3",
 
     "@react-navigation/drawer": "^7.1.1",
     "@react-navigation/material-top-tabs": "^7.1.0",
